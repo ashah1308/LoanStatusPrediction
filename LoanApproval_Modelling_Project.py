@@ -8,7 +8,7 @@ Description: Decision
 3. Here Entropy has been used for Attribute selection Mechanism
 @Classification Model : Decision Tree
 Python version: 3.7
-@author: DM_ASSIGNMENT_GROUP_044 ==> Aakash, Kalpana, Kannan
+@author:Aakash
 """
 
 # Importing the required packages
